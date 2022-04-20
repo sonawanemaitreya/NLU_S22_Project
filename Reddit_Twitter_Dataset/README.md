@@ -1,7 +1,5 @@
 # Automatic Sarcasm Detection 
 
-***The Shared Task (2nd FigLang Workshop at ACL 2020) is now over. Thanks a lot, participants :)***  
-
 Please refer to `reddit` and `twitter` sub-directories for further references on datasets. 
 
 For Twitter and Reddit, training and testing datasets are provided for sarcasm detection tasks in jsonlines format. 
@@ -18,7 +16,7 @@ For instance, for the following training example :
 
 `"label": "SARCASM", "response": "Did Kelly just call someone else messy? Baaaahaaahahahaha", "context": ["X is looking a First Lady should . #classact, "didn't think it was tailored enough it looked messy"]`
 
-The response tweet, "Did Kelly..." is a reply to its immediate context "didn't think it was tailored..." which is a reply to "X is looking...". Your goal is to predict the label of the "response" while also using the context (i.e, the immediate or the full context).
+The response tweet, "Did Kelly..." is a reply to its immediate context "didn't think it was tailored..." which is a reply to "X is looking...". Our goal is to predict the label of the "response" while also using the context (i.e, the immediate or the full context).
 
 ***Dataset size statistics*** :
 
@@ -27,14 +25,12 @@ The response tweet, "Did Kelly..." is a reply to its immediate context "didn't t
 | Reddit  | 4400  | 1800 |
 | Twitter | 5000  | 1800 |
 
-For Test, we will be providing you the ***response*** and the ***context***. We will also provide the ***id*** (i.e., identifier) to report the the results.
+For Test, the ***response*** and the ***context***  are provided along with ***id*** (i.e., identifier) to report the the results.
 
-***Submission Instructions*** : Please follow the given [link](submission_instructions.pdf)
 
 ***Main References:***
 
 [A Report on the 2020 Sarcasm Detection Shared Task.](https://www.aclweb.org/anthology/2020.figlang-1.1.pdf) Debanjan Ghosh, Avijit Vajpyee, Smaranda Muresan. Proceedings of the Second Workshop on Figurative Language Processing.
 
----
-***Note***:  Since we have collected our training data from popular social media platforms a large portion of the utterances are on controversial and/or political and social topics. Although we have pre-processed the training data and lightly edited to remove contentious text, many utterances still contain controversial perspectives (of the users) and informal language.  
+ 
 
