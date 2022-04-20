@@ -8,3 +8,7 @@ The baseline models chosen to evaluate was 'T5-base', a finetuned version on Twi
 
 In comparison, we have experimented on the following token-free models until now:
 1) CANINE - finetuned and tested on the Twitter Sarcasm Dataset. The model weights can be found here: https://drive.google.com/drive/folders/1IsRI_jgxXM44BzAxMlgYoU1sK30wIryf?usp=sharing
+2) ByT5-small model- finetuned and tested on the Twitter Sarcasm Dataset. The model weights can be found here:
+https://drive.google.com/file/d/117QtlzOmz3QpZAliWyC8KeUkV5MolVeM/view?usp=sharing
+3) ByT5-small model- finetuned and tested on the News Headline Sarcasm Dataset. The model weights can be found here:
+https://drive.google.com/file/d/1riiKnmi8XFcSSokJvrKwmFgRDDlEr4vY/view?usp=sharing
