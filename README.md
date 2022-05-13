@@ -16,8 +16,8 @@ https://drive.google.com/file/d/11DREflBk89GdhoG5fQAYoStxOR2RNUhH/view?usp=shari
 3) ByT5-small model- finetuned and tested on the Twitter Sarcasm Dataset. The model weights can be found here:
 https://drive.google.com/file/d/117QtlzOmz3QpZAliWyC8KeUkV5MolVeM/view?usp=sharing
 
-3) ByT5-small model- finetuned and tested on the News Headline Sarcasm Dataset. The model weights can be found here:
+4) ByT5-small model- finetuned and tested on the News Headline Sarcasm Dataset. The model weights can be found here:
 https://drive.google.com/file/d/1riiKnmi8XFcSSokJvrKwmFgRDDlEr4vY/view?usp=sharing
 
-3) ByT5-base model- finetuned and tested on the News Headline Sarcasm Dataset. The model weights can be found here:
+5) ByT5-base model- finetuned and tested on the News Headline Sarcasm Dataset. The model weights can be found here:
 https://drive.google.com/file/d/1-vAHkwUX0LNiZ-ymKtk9gFRsdfJNWWDk/view?usp=sharing
