@@ -21,3 +21,6 @@ https://drive.google.com/file/d/1riiKnmi8XFcSSokJvrKwmFgRDDlEr4vY/view?usp=shari
 
 5) ByT5-base model- finetuned and tested on the News Headline Sarcasm Dataset. The model weights can be found here:
 https://drive.google.com/file/d/1-vAHkwUX0LNiZ-ymKtk9gFRsdfJNWWDk/view?usp=sharing
+
+6) ByT5-base model - finetuned and tested on the Twitter Sarcasm dataset. The Jupyter Notebook and model weights can be found here:
+https://drive.google.com/file/d/1MxXZZmM_yG0D5fVfxgsZxtRoEp0Aebvc/view?usp=sharing
