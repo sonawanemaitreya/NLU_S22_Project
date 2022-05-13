@@ -7,8 +7,14 @@ The repository contains baseline results for 2 datasets:
 The baseline models chosen to evaluate was 'T5-base', a finetuned version on Twitter Sarcasm Dataset can be found on https://huggingface.co/mrm8488/t5-base-finetuned-sarcasm-twitter, and hence the same was used for testing on the Twitter Sarcasm Dataset. For News Dataset, we had to finetune the T5-base model ourselves and then test it against the test set. The model weights for the same can be found here: https://drive.google.com/file/d/1gnp1zv2t4xkYcRqmCPbaDjfgmyg8cw6Q/view?usp=sharing
 
 In comparison, we have experimented on the following token-free models until now:
-1) CANINE - finetuned and tested on the Twitter Sarcasm Dataset. The model weights can be found here: https://drive.google.com/drive/folders/1IsRI_jgxXM44BzAxMlgYoU1sK30wIryf?usp=sharing
-2) ByT5-small model- finetuned and tested on the Twitter Sarcasm Dataset. The model weights can be found here:
+
+1) CANINE - finetuned and tested on the Twitter Sarcasm Dataset. The model weights can be found here: https://drive.google.com/file/d/1N0yQ2do5OqbgzHxP68Ikpyi0mDd2kNYA/view?usp=sharing
+
+2) CANINE - finetuned and tested on the News Dataset. The model weights can be found in the following zip file: 
+https://drive.google.com/file/d/11DREflBk89GdhoG5fQAYoStxOR2RNUhH/view?usp=sharing
+
+3) ByT5-small model- finetuned and tested on the Twitter Sarcasm Dataset. The model weights can be found here:
 https://drive.google.com/file/d/117QtlzOmz3QpZAliWyC8KeUkV5MolVeM/view?usp=sharing
+
 3) ByT5-small model- finetuned and tested on the News Headline Sarcasm Dataset. The model weights can be found here:
 https://drive.google.com/file/d/1riiKnmi8XFcSSokJvrKwmFgRDDlEr4vY/view?usp=sharing
