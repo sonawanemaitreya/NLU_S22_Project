@@ -24,3 +24,5 @@ https://drive.google.com/file/d/1-vAHkwUX0LNiZ-ymKtk9gFRsdfJNWWDk/view?usp=shari
 
 6) ByT5-base model - finetuned and tested on the Twitter Sarcasm dataset. The Jupyter Notebook and model weights can be found here:
 https://drive.google.com/file/d/1MxXZZmM_yG0D5fVfxgsZxtRoEp0Aebvc/view?usp=sharing
+
+7) Charformer model- Trained and tested on Twitter Sarcasm dataset. The model weights can be found here: https://drive.google.com/file/d/17tssC1wV_bxlVhz6v5TBT4MYPRRkNppb/view?usp=sharing
