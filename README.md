@@ -26,3 +26,5 @@ https://drive.google.com/file/d/1-vAHkwUX0LNiZ-ymKtk9gFRsdfJNWWDk/view?usp=shari
 https://drive.google.com/file/d/1MxXZZmM_yG0D5fVfxgsZxtRoEp0Aebvc/view?usp=sharing
 
 7) Charformer model- Trained and tested on Twitter Sarcasm dataset. The model weights can be found here: https://drive.google.com/file/d/17tssC1wV_bxlVhz6v5TBT4MYPRRkNppb/view?usp=sharing
+
+8) Charformer model - Trained and tested on News Headline Sarcasm dataset. The model weights can be found here: https://drive.google.com/file/d/1vhDF3kKtSbcYGQLO9XH4iMAMy5R8fv6F/view?usp=sharing
